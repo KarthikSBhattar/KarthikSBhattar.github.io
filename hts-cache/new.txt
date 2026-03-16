@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-11:51:47	110/110	---M-Z	-1	error ('Open%20error%20when%20decompressing%20(can%20not%20create%20temporary%20file%20/tmp0.z)')	text/plain	etag:%22fb8ebc77072f6ae53c65f51906424da3%22	https://sparkly-photos-641606.framer.app/robots.txt		(from )
-11:51:48	448569/448569	U--M-Z	200	updated ('OK')	text/html	etag:%229f33ea4f6837927f90d4908e5ddf6ef1%22	https://sparkly-photos-641606.framer.app/	sparkly-photos-641606.framer.app/index.html	(from )
-11:51:49	31960/31960	U--M-Z	200	updated ('OK')	text/html	etag:%221811c5936a4e6c7d9c6680af1f239862%22	https://sparkly-photos-641606.framer.app/writing/paper-run	sparkly-photos-641606.framer.app/writing/paper-run.html	(from https://sparkly-photos-641606.framer.app/)
